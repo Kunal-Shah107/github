@@ -1,4 +1,4 @@
-# Practice Repo for learnig GIT
+# Practice Repo for learning GIT
 
 #COMMANDS USED
 
