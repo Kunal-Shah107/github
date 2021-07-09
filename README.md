@@ -21,4 +21,5 @@
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, & set default upstream for <branch>
 - git fetch: To fetch the remote repositories ( Fetch changes in remote repositories )
+- git pull: Fetch & then merge
 >>>>>>> Stashed changes
