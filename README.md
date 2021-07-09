@@ -17,4 +17,7 @@
 - git stash pop: Apply stashed changes to working directory.
 - git show: Show a single commit
 - git diff: Show the difference between commits, the working directory, and the staging area.
+- git remote add <remote> <url>: Add new <remote> at ,url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, & set default upstream for <branch>
 >>>>>>> Stashed changes
