@@ -15,4 +15,6 @@
 - git stash: Stash changes from working directory
 - git stash list: Stash list
 - git stash pop: Apply stashed changes to working directory.
+- git show: Show a single commit
+- git diff: Show the difference between commits, the working directory, and the staging area.
 >>>>>>> Stashed changes
