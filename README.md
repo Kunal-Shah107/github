@@ -22,4 +22,5 @@
 - git push -u <remote> <branch>: Push <branch> to <remote>, & set default upstream for <branch>
 - git fetch: To fetch the remote repositories ( Fetch changes in remote repositories )
 - git pull: Fetch & then merge
+- git merge: To merge changes from diff branches
 >>>>>>> Stashed changes
